@@ -28,4 +28,4 @@ print('{:.2f}'.format(dis))
 
 
 ### RESULT:
-Thus the DISTANCE-BETWEEN-TWO-POINTS are calculated and successfully executed
+Thus the distance two 2 points are calculated and successfully executed
